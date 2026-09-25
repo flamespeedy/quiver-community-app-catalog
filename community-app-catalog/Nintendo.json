@@ -1,7 +1,7 @@
 {
   "name": "Nintendo",
   "description": "Nintendo platform ports and recreations",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e260cb761dbaa59a1568e65c872a0951.png",
   "preferredTagFilters": [
     "recomp",
@@ -201,6 +201,14 @@
           }
         ]
       }
+    },
+    {
+      "name": "Doom 64",
+      "project": "DOOM64 EX+ Enhanced",
+      "repository": "Styd051/DOOM64-EX-Plus-Enhanced",
+      "folderName": "Doom64-DOOM64EXEnhanced",
+      "appIconUrl": "https://raw.githubusercontent.com/Styd051/DOOM64-EX-Plus-Enhanced/refs/heads/main/src/engine/doom64ex-plus-enhanced.ico",
+      "tags": ["recreation", "n64", "doom", "nintendo", "nintendo 64"]
     },
     {
       "name": "Dr. Mario 64",
