@@ -203,6 +203,14 @@
       }
     },
     {
+      "name": "Doom 64",
+      "project": "DOOM64 EX+ Enhanced",
+      "repository": "Styd051/DOOM64-EX-Plus-Enhanced",
+      "folderName": "Doom64-DOOM64EXEnhanced",
+      "appIconUrl": "https://raw.githubusercontent.com/Styd051/DOOM64-EX-Plus-Enhanced/refs/heads/main/src/engine/doom64ex-plus-enhanced.ico",
+      "tags": ["recreation", "n64", "doom", "nintendo", "nintendo 64"]
+    },
+    {
       "name": "Dr. Mario 64",
       "project": "Dr. Mario 64: Recompiled Plus",
       "repository": "theboy181/drmario64_recomp_plus",
