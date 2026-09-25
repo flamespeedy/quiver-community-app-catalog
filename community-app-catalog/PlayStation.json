@@ -889,6 +889,157 @@
         "decompilation"
       ],
       "catalogId": "qcat_50383a23-47a0-4e6e-ab24-89bd34fb8f78"
+      ]
+    },
+    {
+      "name": "Alundra",
+      "project": "Alundra Recompiled",
+      "repository": "alexbeavs-ps1-ports/alundra-recomp",
+      "folderName": "Alundra-AlundraRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/f8efd16b847363214ecc2b8b017a0116.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "alundra",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Diablo",
+      "project": "Diablo Recompiled",
+      "repository": "alexbeavs-ps1-ports/diablo-recomp",
+      "folderName": "Diablo-DiabloRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/bd797aeec2be006e5ec325201de709f9.png",
+      "tags": [
+        "recomp",
+        "ps1",
+        "diablo",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Dino Crisis",
+      "project": "Dino Crisis Recompiled",
+      "repository": "alexbeavs-ps1-ports/dino-crisis-recomp",
+      "folderName": "DinoCrisis-DinoCrisisRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/550f3165722a1429ec0f3d95beb5d9cf.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "dino crisis",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Dino Crisis 2",
+      "project": "Dino Crisis 2 Recompiled",
+      "repository": "alexbeavs-ps1-ports/dino-crisis-2-recomp",
+      "folderName": "DinoCrisis2-DinoCrisis2Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/7f33deddace3be452b46ea9d1f98359a.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "dino crisis",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Metal Gear Solid",
+      "project": "Metal Gear Solid Recompiled",
+      "repository": "alexbeavs-ps1-ports/metal-gear-solid-recomp",
+      "folderName": "MetalGearSolid-MetalGearSolidRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/ef3009b306c986cbc8b620ab91fa9240.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "metal gear solid",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Resident Evil 3: Nemesis",
+      "project": "Resident Evil 3 Recompiled",
+      "repository": "alexbeavs-ps1-ports/resident-evil-3-recomp",
+      "folderName": "ResidentEvil3Nemesis-ResidentEvil3Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/2e1e340864427d058e5dfb8d44395dce.png",
+      "tags": [
+        "recomp",
+        "ps1",
+        "resident evil",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Final Fantasy VIII",
+      "project": "Final Fantasy VIII Recompiled",
+      "repository": "alexbeavs-ps1-ports/final-fantasy-viii-recomp",
+      "folderName": "FinalFantasyVIII-FinalFantasyVIIIRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/e73e82ebf7f240886928080e5e875db6.png",
+      "tags": [
+        "recomp",
+        "ps1",
+        "final fantasy",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Final Fantasy IX",
+      "project": "Final Fantasy IX Recompiled",
+      "repository": "alexbeavs-ps1-ports/final-fantasy-ix-recomp",
+      "folderName": "FinalFantasyIX-FinalFantasyIXRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/e68b63895a5d8f0690f435c69f1ef16c.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "final fantasy",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Suikoden",
+      "project": "Suikoden Recompiled",
+      "repository": "alexbeavs-ps1-ports/suikoden-recomp",
+      "folderName": "Suikoden-SuikodenRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/d106a53d3c5ed04a4138425e3b4b10b1.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "suikoden",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Suikoden II",
+      "project": "Suikoden II Recompiled",
+      "repository": "alexbeavs-ps1-ports/suikoden-ii-recomp",
+      "folderName": "SuikodenII-SuikodenIIRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/90a0435bbe44316b6ad754a647c4632f.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "suikoden",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
     }
   ]
 }
